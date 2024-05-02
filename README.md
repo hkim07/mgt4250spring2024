@@ -15,3 +15,12 @@ These questions are *especially* **important** because
 [Elon University](https://www.elon.edu)
 ![image](https://github.com/hkim07/mgt4250spring2024/assets/39529124/d485a5ed-d1b3-4dd9-b3ce-fc32dd3255eb)
 
+## Data description
+
+## Interpreting visualizations
+
+## Discussion & Summary
+
+
+
+
