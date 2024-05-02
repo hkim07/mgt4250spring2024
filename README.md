@@ -1,2 +1,2 @@
-# mgt4250spring2024
-This is a repo for MGT 4250 course project
+# MGT 4250 Course Project
+Author(s): Hyunuk Kim (hkim6@elon.edu)
