@@ -2,6 +2,7 @@
 Author(s): Hyunuk Kim (hkim6@elon.edu)
 
 ## Project description
+[LINK to Visualizations](https://public.tableau.com/views/test_17146783141220/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 ### Questions of interest
 - Q1
 - Q2
